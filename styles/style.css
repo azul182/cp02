@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+:root{
+    --color1 : #F4F5F9; 
+}
+
+*{
+    font-family: Heebo;
+}
+
+body{
+    padding: 0 120px;
+}
+
+.bg-primary-color{
+    background-color: var(--color1);
+}
+
+.hero-height{
+    min-height: 60vh;
+}
+
+.imagem{
+    height: 50%;
+}
+
+.main{
+    min-width: 80%;
+}
